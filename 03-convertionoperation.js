@@ -34,6 +34,18 @@ console.log(num4); // 0
 // undefined()
 // null()
 
+/*
+// Implicit conversion
+console.log(5 + "5"); // "55"
+console.log("5" * 5); // 25
+
+// Explicit conversion
+console.log(Number("5")); // 5
+console.log(String(5)); // "5"
+console.log(Boolean(0)); // false
+console.log(Boolean("")); // false
+console.log(Boolean("hello")); // true
+*/
 
 // ***************************** operations *********************************//
 
